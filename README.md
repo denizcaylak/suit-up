@@ -6,4 +6,4 @@ I coded a website for a fashion company that I imagined. I made this project for
 My main goal was to make this website to look modern and profesional.
 
 # Website
-You can see the final website from [here.](https://suit-up-deniz.netlify.app/)https://suit-up-deniz.netlify.app/
+You can see the final website from [here.](https://suit-up-deniz.netlify.app/)
